@@ -1,0 +1,9 @@
+*.zip
+/new/
+/.vscode/
+/augmented/
+/augmented-old/
+/augmented-reduced/
+/new-reduced/
+/test/
+wayang-eda.ipynb
